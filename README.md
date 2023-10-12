@@ -2,6 +2,8 @@
 
 (Note: this is a Markdown document. You can edit and interact with it most easily using software that understands Markdown, such as [Visual Studio Code](https://code.visualstudio.com) or [Stack Edit](https://stackedit.io). Note that GitHub also displays Mermaid diagrams, including Activity Diagrams[Flow Charts] embedded in MarkDown documents.)
 
+You can also see this document rendered on [GitHub](https://github.com/RBASOE-Class-Projects/FlowChartDemos/tree/main).
+
 # Flow Charts (aka, UML Activity Diagrams without concurrency)
 
 A flow chart is a diagram that describes a process in graphical terms. Each block in the diagram represents a state or activity. Lines connecting these activities represent transitions from one activity to another. The Unified Modeling Language (UML) is a standard for a variety of diagrams that describe the dynamic behavior of complex systems (e.g., software systems) and the UML Activity Diagram is one of the diagrams in the UML standard. The UML Activity diagram is a generalization of the concept of a Flow Chart to include more complex scenarios including concurrency.
@@ -95,3 +97,4 @@ Producing the diagram shown here:
 While Plant Text has a richer set of options, and it produces more polished looking diagrams, it also requires an external process (a plant-text server) that has to be available to make it work. Mermaid, on the other hand, offers many "Plug Ins" that work with [VSCode](https://code.visualstudio.com), [pandoc](https://pandoc.org), and others to display diagrams embedded in Markdown documents dynamically as you edit.
 
 After all you can pick from any of a number of strategies for creating and managing flowcharts to document the processes in your project. Use the approach that works best for you and your team.
+
